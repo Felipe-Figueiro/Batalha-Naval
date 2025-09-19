@@ -1,7 +1,3 @@
-Perfeito! Com seu código completo, podemos criar um README profissional e amigável. Um bom README não só explica o que o projeto faz, mas também guia o usuário sobre como interagir com ele.
-
-Aqui está um modelo de README para a sua atividade.
-
 ⚓️ Batalha Naval - Atividade de Lógica de Programação ⚓️
 Bem-vindo! Este projeto teve como objetivo por em prática um pouco da Lógica de Programação do meus estudos! 🚀
 
